@@ -35,3 +35,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # Ecommerce-MUSTOMART
+
+<img width="1485" alt="image" src="https://github.com/user-attachments/assets/c7c9e1ab-19b5-413b-8bf5-974ad08259f3" />
+
